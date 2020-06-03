@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test" />
+        <module name="spring-cloud-consumer" />
+        <module name="jdk" />
+        <module name="designPatterns" />
+        <module name="performance" />
+        <module name="spring-cloud-provider" />
+        <module name="secret" />
+        <module name="http" />
+        <module name="route" />
+        <module name="commander" />
+        <module name="spring-cloud-eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commander" target="8" />
+      <module name="designPatterns" target="1.5" />
+      <module name="http" target="1.5" />
+      <module name="jdk" target="8" />
+      <module name="myproject" target="1.5" />
+      <module name="performance" target="7" />
+      <module name="route" target="8" />
+      <module name="secret" target="1.5" />
+      <module name="spring-cloud" target="1.8" />
+      <module name="spring-cloud-consumer" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
+      <module name="spring-cloud-provider" target="1.8" />
+      <module name="test" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="route" options="-parameters" />
+      <module name="spring-cloud-consumer" options="-parameters" />
+      <module name="spring-cloud-eureka" options="-parameters" />
+      <module name="spring-cloud-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

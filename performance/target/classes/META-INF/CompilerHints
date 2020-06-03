@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/zc/performance/JudgeCompare_5.testIf_10
+inline,com/zc/performance/JudgeCompare_5.testIf_3
+inline,com/zc/performance/JudgeCompare_5.testIf_5
+inline,com/zc/performance/JudgeCompare_5.testSwitch_10
+inline,com/zc/performance/JudgeCompare_5.testSwitch_3
+inline,com/zc/performance/JudgeCompare_5.testSwitch_5
