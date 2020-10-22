@@ -19,6 +19,8 @@
         <module>performance</module>
         <module>designPatterns</module>
         <module>designPatterns/commander</module>
+        <module>logs</module>
+        <module>jvm</module>
     </modules>
     <packaging>pom</packaging>
 

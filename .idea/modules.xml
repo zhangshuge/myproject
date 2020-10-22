@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/designPatterns/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns/designPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdk/jdk.iml" filepath="$PROJECT_DIR$/jdk/jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logs/logs.iml" filepath="$PROJECT_DIR$/logs/logs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myproject.iml" filepath="$PROJECT_DIR$/.idea/myproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/performance/performance.iml" filepath="$PROJECT_DIR$/performance/performance.iml" />
       <module fileurl="file://$PROJECT_DIR$/route/route.iml" filepath="$PROJECT_DIR$/route/route.iml" />

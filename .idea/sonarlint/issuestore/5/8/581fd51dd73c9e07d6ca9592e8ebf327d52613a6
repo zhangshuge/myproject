@@ -1,10 +1,3 @@
 
-t
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
-G
-java:S3599",Use another way to initialize this instance.(ðƒþìûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¨¹—õ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¡Óžýÿÿÿÿ
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÀ‹¡
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Åè‡•þÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î™ìÊþÿÿÿÿ8—ì¹½¾.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Žþèçüÿÿÿÿ8þŠÖ½¾.

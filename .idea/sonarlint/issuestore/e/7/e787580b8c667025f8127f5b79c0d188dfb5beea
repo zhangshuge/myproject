@@ -3,7 +3,7 @@ E
 java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
 I
 java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úÕÙúûÿÿÿÿ
 N
 java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í
-S	java:S106"9Replace this use of System.out or System.err by a logger.(úÕÙúûÿÿÿÿ
 M	java:S106"9Replace this use of System.out or System.err by a logger.(‚š‰1

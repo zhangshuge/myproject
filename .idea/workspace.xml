@@ -4,7 +4,65 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03604e1f-9284-4953-8d92-c4b9335ab999" name="Default Changelist" comment="" />
+    <list default="true" id="03604e1f-9284-4953-8d92-c4b9335ab999" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b8a1e8ce9ef19ea109c46381fcc729ea78d1a89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/313cedad4f702cd21f19af6418d06dc4ea203529" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b070df4b62d21ccc21351eae51821cf3f01fa29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3eb77c3a9f628f3f6b3ebd542f1999e355ae6422" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ee61fba1bcc5a9e9524cf76ab3fbb6dc794f4e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7565836c17ade20b03f52e8a64183d6a6e8c87f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb2b7f7cb3a769d41c83c2ded6ab9e8e04776460" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/jvm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/DynamicLinking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/HeapOom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/JavaVMStackSOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/JavaVirtualMachineMemoryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/LocalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/MethodAreaOom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/ThreadLocalAllocationBuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/logs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/src/main/java/com/zc/log/jul/MyFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/src/main/java/com/zc/log/jul/Nose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/extend/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/extend/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/extend/Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/extend/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20f3e4d1a632fad105415563be6daac9e863244a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20f3e4d1a632fad105415563be6daac9e863244a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28c87331b93726380dbe9eb759ac11cdc5b84804" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28c87331b93726380dbe9eb759ac11cdc5b84804" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3521b2914bea60a8d66a58dfa0481007f10dc359" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3521b2914bea60a8d66a58dfa0481007f10dc359" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/581fd51dd73c9e07d6ca9592e8ebf327d52613a6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/581fd51dd73c9e07d6ca9592e8ebf327d52613a6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64bd68bd7f2a1d2f5f3e9111ef6027da17efd6b5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64bd68bd7f2a1d2f5f3e9111ef6027da17efd6b5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79597202c169ee79790b363f7661ecbf7d69c6aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79597202c169ee79790b363f7661ecbf7d69c6aa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82d384a9ed31ba9cf705b9ab962bcbec060dd4b8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82d384a9ed31ba9cf705b9ab962bcbec060dd4b8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88f0c986516d44500dd4136bde51e3aa828504e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88f0c986516d44500dd4136bde51e3aa828504e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4501865ea1a409a903eb494ae7a57a8c0ef752a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4501865ea1a409a903eb494ae7a57a8c0ef752a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aac1e1fdaecfab1897d103b56e18ae679433fc32" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aac1e1fdaecfab1897d103b56e18ae679433fc32" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d48b4d60ff546b48c8a3fd9ce1b19d84339cf646" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d48b4d60ff546b48c8a3fd9ce1b19d84339cf646" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbd110ea431218e4cb14e84a8318aa0b23cece49" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbd110ea431218e4cb14e84a8318aa0b23cece49" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e787580b8c667025f8127f5b79c0d188dfb5beea" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e787580b8c667025f8127f5b79c0d188dfb5beea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/commander/commander.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns/commander/commander.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/src/test/java/com/zc/jdk/stream/OperateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/src/test/java/com/zc/jdk/stream/OperateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/performance/performance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/performance/performance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/route.iml" beforeDir="false" afterPath="$PROJECT_DIR$/route/route.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud/spring-cloud-consumer/spring-cloud-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud/spring-cloud-consumer/spring-cloud-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud/spring-cloud-eureka/spring-cloud-eureka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud/spring-cloud-eureka/spring-cloud-eureka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud/spring-cloud-provider/spring-cloud-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud/spring-cloud-provider/spring-cloud-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud/spring-cloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud/spring-cloud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/com/zc/test/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/MapTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/target/classes/com/zc/test/MapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +77,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,6 +88,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VF4JrhTmxhoVio9AaYHPD8l7pV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,15 +96,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud/spring-cloud-consumer/src/main/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="jdk.selected.JAVA_MODULE" value="12-ea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -53,27 +116,29 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory" />
+      <recent name="$PROJECT_DIR$/route/src/main/java/com/zc/route" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zc.spring.cloud.provider" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring-cloud/spring-cloud-consumer/src/main/resources" />
       <recent name="$PROJECT_DIR$/route/src/main/java/com/zc/route" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zc.spring.cloud.provider" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/route/src/main/java/com/zc/route" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zc.jdk.HelloWorld" />
-      <module name="jdk" />
+  <component name="RunManager" selected="Application.MethodAreaOom">
+    <configuration name="HeapOom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.jvm.HeapOom" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/tmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zc.jdk.*" />
+          <option name="PATTERN" value="com.zc.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,77 +146,80 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest.streamDebug" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdk" />
+    <configuration name="JavaVMStackSOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.jvm.JavaVMStackSOF" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -Xss152k" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zc.jdk.stream.*" />
+          <option name="PATTERN" value="com.zc.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zc.jdk.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.zc.jdk.stream.InterfaceTest" />
-      <option name="METHOD_NAME" value="streamDebug" />
-      <option name="TEST_OBJECT" value="method" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="1144699615280199" />
+      </RunnerSettings>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperateTest.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdk" />
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.test.MapTest" />
+      <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zc.jdk.stream.*" />
+          <option name="PATTERN" value="com.zc.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zc.jdk.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.zc.jdk.stream.OperateTest" />
-      <option name="METHOD_NAME" value="demo1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperateTest.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdk" />
+    <configuration name="MethodAreaOom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.jvm.memory.MethodAreaOom" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-XX:PermSize=6M -XX:MaxPermSize=6M" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zc.jdk.stream.*" />
+          <option name="PATTERN" value="com.zc.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zc.jdk.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.zc.jdk.stream.OperateTest" />
-      <option name="METHOD_NAME" value="demo2" />
-      <option name="TEST_OBJECT" value="method" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="1146396275241475" />
+      </RunnerSettings>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperateTest.mapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdk" />
+    <configuration name="Nose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.log.jul.Nose" />
+      <module name="logs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zc.jdk.stream.*" />
+          <option name="PATTERN" value="com.zc.log.jul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zc.jdk.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.zc.jdk.stream.OperateTest" />
-      <option name="METHOD_NAME" value="mapTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HeapOom" />
+      <item itemvalue="Application.MapTest" />
+      <item itemvalue="Application.Nose" />
+      <item itemvalue="Application.JavaVMStackSOF" />
+      <item itemvalue="Application.MethodAreaOom" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="JUnit.OperateTest.mapTest" />
-        <item itemvalue="JUnit.InterfaceTest.streamDebug" />
-        <item itemvalue="JUnit.OperateTest.demo1" />
-        <item itemvalue="JUnit.OperateTest.demo2" />
+        <item itemvalue="Application.MethodAreaOom" />
+        <item itemvalue="Application.JavaVMStackSOF" />
+        <item itemvalue="Application.HeapOom" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.Nose" />
       </list>
     </recent_temporary>
   </component>
@@ -181,158 +249,98 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="99" key="#Inspections" timestamp="1584255740621">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="300" y="99" key="#Inspections/0.23.1440.821@0.23.1440.821" timestamp="1584255740621" />
-    <state x="376" y="110" key="#JmhRun" timestamp="1587270437650">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="376" y="110" key="#JmhRun/0.23.1440.821@0.23.1440.821" timestamp="1587270437650" />
-    <state x="631" y="158" key="#JudgeCompare" timestamp="1587307775458">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="631" y="158" key="#JudgeCompare/0.23.1440.821@0.23.1440.821" timestamp="1587307775458" />
-    <state x="320" y="99" key="#Project_Structure" timestamp="1590307413854">
-      <screen x="0" y="23" width="1440" height="819" />
-    </state>
-    <state x="320" y="99" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1590307413854" />
-    <state x="320" y="99" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1587617582501" />
-    <state x="404" y="83" key="#ProviderApplication" timestamp="1584263226696">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="404" y="83" key="#ProviderApplication/0.23.1440.821@0.23.1440.821" timestamp="1584263226696" />
-    <state x="470" y="323" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow" timestamp="1590903977627">
+    <state x="320" y="99" width="811" height="669" key="#Project_Structure" timestamp="1599465230292">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="470" y="323" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.23.1440.822@0.23.1440.822" timestamp="1590903977627" />
-    <state x="533" y="155" key="#com.intellij.ide.util.MemberChooser" timestamp="1590307859117">
-      <screen x="0" y="23" width="1440" height="819" />
-    </state>
-    <state x="533" y="155" key="#com.intellij.ide.util.MemberChooser/0.23.1440.819@0.23.1440.819" timestamp="1590307859117" />
-    <state x="570" y="329" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584263614033">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="570" y="329" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.821@0.23.1440.821" timestamp="1584263614033" />
-    <state width="487" height="466" key="DebuggerActiveHint" timestamp="1587600137406">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="487" height="466" key="DebuggerActiveHint/0.23.1440.821@0.23.1440.821" timestamp="1587600137406" />
-    <state x="730" y="253" key="EnvironmentVariablesDialog" timestamp="1587299787860">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="730" y="253" key="EnvironmentVariablesDialog/0.23.1440.821@0.23.1440.821" timestamp="1587299787860" />
-    <state x="508" y="182" key="FileChooserDialogImpl" timestamp="1587268868788">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="508" y="182" key="FileChooserDialogImpl/0.23.1440.821@0.23.1440.821" timestamp="1587268868788" />
-    <state width="1398" height="306" key="GridCell.Tab.0.bottom" timestamp="1591062584356">
+    <state x="320" y="99" width="811" height="669" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1599465230292" />
+    <state x="320" y="99" key="#Updates" timestamp="1602489688863">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="328" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1590553060966" />
-    <state width="1398" height="257" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1588681079190" />
-    <state width="1398" height="306" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1591062584356" />
-    <state width="1398" height="306" key="GridCell.Tab.0.center" timestamp="1591062584345">
+    <state x="320" y="99" key="#Updates/0.23.1440.822@0.23.1440.822" timestamp="1602489688863" />
+    <state x="320" y="99" key="#VisualVM_Launcher" timestamp="1602300147770">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="328" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1590553060928" />
-    <state width="1398" height="257" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1588681079188" />
-    <state width="1398" height="306" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1591062584345" />
-    <state width="1398" height="306" key="GridCell.Tab.0.left" timestamp="1591062584329">
+    <state x="320" y="99" key="#VisualVM_Launcher/0.23.1440.822@0.23.1440.822" timestamp="1602300147770" />
+    <state x="192" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603328664986">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="328" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1590553060887" />
-    <state width="1398" height="257" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1588681079188" />
-    <state width="1398" height="306" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1591062584329" />
-    <state width="1398" height="306" key="GridCell.Tab.0.right" timestamp="1591062584346">
+    <state x="192" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1603328664986" />
+    <state x="353" y="149" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1601296774579">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="328" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1590553060965" />
-    <state width="1398" height="257" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1588681079189" />
-    <state width="1398" height="306" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1591062584346" />
-    <state width="1398" height="306" key="GridCell.Tab.1.bottom" timestamp="1591062584408">
+    <state x="353" y="149" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.23.1440.822@0.23.1440.822" timestamp="1601296774579" />
+    <state x="507" y="146" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1601295856565">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1588670169466" />
-    <state width="1398" height="306" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1591062584408" />
-    <state width="1398" height="306" key="GridCell.Tab.1.center" timestamp="1591062584364">
+    <state x="507" y="146" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.822@0.23.1440.822" timestamp="1601295856565" />
+    <state x="569" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597380487567">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1588670169466" />
-    <state width="1398" height="306" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1591062584364" />
-    <state width="1398" height="306" key="GridCell.Tab.1.left" timestamp="1591062584363">
+    <state x="569" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.822@0.23.1440.822" timestamp="1597380487567" />
+    <state x="344" y="107" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1601296789807">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1588670169465" />
-    <state width="1398" height="306" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1591062584363" />
-    <state width="1398" height="306" key="GridCell.Tab.1.right" timestamp="1591062584369">
+    <state x="344" y="107" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.822@0.23.1440.822" timestamp="1601296789807" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom" timestamp="1603329431732">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1588670169466" />
-    <state width="1398" height="306" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1591062584369" />
-    <state x="258" y="95" key="Maven.ArtifactSearchDialog" timestamp="1584261699346">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="258" y="95" key="Maven.ArtifactSearchDialog/0.23.1440.821@0.23.1440.821" timestamp="1584261699346" />
-    <state x="208" y="23" width="1024" height="819" key="SettingsEditor" timestamp="1590903951019">
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1603329431732" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center" timestamp="1603329431731">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="208" y="23" width="1024" height="819" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1590106282398" />
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1589513466999" />
-    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1588510924641" />
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1590903951019" />
-    <state x="450" y="173" width="540" height="526" key="StructurePopup" timestamp="1590910145063">
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1603329431731" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left" timestamp="1603329431730">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="450" y="172" width="540" height="523" key="StructurePopup/0.23.1440.819@0.23.1440.819" timestamp="1590504807432" />
-    <state x="450" y="172" width="540" height="524" key="StructurePopup/0.23.1440.821@0.23.1440.821" timestamp="1588672639775" />
-    <state x="450" y="173" width="540" height="526" key="StructurePopup/0.23.1440.822@0.23.1440.822" timestamp="1590910145063" />
-    <state x="450" y="183" width="540" height="561" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1590649223014" />
-    <state width="511" height="821" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1587617650207">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="511" height="821" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.23.1440.821@0.23.1440.821" timestamp="1587617650207" />
-    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1591174048799">
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1603329431730" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right" timestamp="1603329431732">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1590018303671" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.820@0.23.1440.820" timestamp="1589513444062" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1589189828895" />
-    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1591174048799" />
-    <state x="483" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588591625187">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="483" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.821@0.23.1440.821" timestamp="1588591625187" />
-    <state width="500" height="352" key="documentation.popup.size" timestamp="1590910188659">
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1603329431732" />
+    <state width="1398" height="349" key="GridCell.Tab.1.bottom" timestamp="1602490288698">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="500" height="350" key="documentation.popup.size/0.23.1440.819@0.23.1440.819" timestamp="1590504843309" />
-    <state width="500" height="350" key="documentation.popup.size/0.23.1440.820@0.23.1440.820" timestamp="1589513517661" />
-    <state width="500" height="352" key="documentation.popup.size/0.23.1440.822@0.23.1440.822" timestamp="1590910188659" />
-    <state width="500" height="375" key="documentation.popup.size/0.23.1440.877@0.23.1440.877" timestamp="1590649391942" />
-    <state x="386" y="195" width="967" height="540" key="find.popup" timestamp="1590542131453">
-      <screen x="0" y="23" width="1440" height="819" />
-    </state>
-    <state x="386" y="195" width="967" height="540" key="find.popup/0.23.1440.819@0.23.1440.819" timestamp="1590542131453" />
-    <state x="386" y="195" width="667" height="476" key="find.popup/0.23.1440.821@0.23.1440.821" timestamp="1586338633473" />
-    <state width="600" height="423" key="javadoc.popup" timestamp="1589934181032">
-      <screen x="0" y="23" width="1440" height="819" />
-    </state>
-    <state width="600" height="423" key="javadoc.popup/0.23.1440.819@0.23.1440.819" timestamp="1589934181032" />
-    <state width="600" height="424" key="javadoc.popup/0.23.1440.821@0.23.1440.821" timestamp="1588432725545" />
-    <state x="100" y="123" key="new project wizard" timestamp="1590999781728">
+    <state width="1398" height="349" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1602490288698" />
+    <state width="1398" height="349" key="GridCell.Tab.1.center" timestamp="1602490288698">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="100" y="123" key="new project wizard/0.23.1440.819@0.23.1440.819" timestamp="1590305608619" />
-    <state x="91" y="239" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1587084325411" />
-    <state x="100" y="123" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1590999781728" />
-    <state x="557" y="236" width="670" height="678" key="search.everywhere.popup" timestamp="1590910069251">
+    <state width="1398" height="349" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1602490288698" />
+    <state width="1398" height="349" key="GridCell.Tab.1.left" timestamp="1602490288698">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="557" y="235" width="670" height="675" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1590502684119" />
-    <state x="557" y="236" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1588675879788" />
-    <state x="557" y="236" width="670" height="678" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1590910069251" />
-    <state x="557" y="250" width="670" height="723" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1590649173151" />
+    <state width="1398" height="349" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1602490288698" />
+    <state width="1398" height="349" key="GridCell.Tab.1.right" timestamp="1602490288698">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="349" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1602490288698" />
+    <state x="308" y="293" key="Performance.Activity.Monitor" timestamp="1602489582073">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="308" y="293" key="Performance.Activity.Monitor/0.23.1440.822@0.23.1440.822" timestamp="1602489582073" />
+    <state x="240" y="90" key="Registry" timestamp="1602490654928">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="240" y="90" key="Registry/0.23.1440.822@0.23.1440.822" timestamp="1602490654928" />
+    <state x="208" y="23" width="1024" height="822" key="SettingsEditor" timestamp="1602490230416">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="208" y="23" width="1024" height="822" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1602490230416" />
+    <state x="450" y="173" width="540" height="526" key="StructurePopup" timestamp="1603162535993">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="450" y="173" width="540" height="526" key="StructurePopup/0.23.1440.822@0.23.1440.822" timestamp="1603162535993" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1603162434408">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1603162434408" />
+    <state x="124" y="184" key="new project wizard" timestamp="1601294289020">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="124" y="184" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1601294289020" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1602490637262">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1602490637262" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -359,17 +367,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/jdk/src/test/java/com/zc/jdk/stream/OperateTest.java</url>
-          <line>130</line>
+          <line>129</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/jdk/src/test/java/com/zc/jdk/stream/OperateTest.java</url>
-          <line>134</line>
+          <line>133</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/jdk/src/test/java/com/zc/jdk/stream/OperateTest.java</url>
-          <line>151</line>
+          <line>150</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -392,6 +400,11 @@
             <option name="lambda-ordinal" value="0" />
           </properties>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/HeapOom.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

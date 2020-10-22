@@ -1,30 +1,25 @@
 package com.zc.test;
 
-import com.google.common.collect.Maps;
-
-import java.util.HashMap;
-import java.util.Map;
 
 public class MapTest {
+
+
     public static void main(String[] args) {
 
-        Map<String, String> map1 = (Map<String, String>) Maps.newHashMap().put("test", "test");
+        int n = 4;
+        int c = (n - 1);
+        System.out.println("每支球队比赛场次：" + c);
 
-        Map<String, String> map2 = new HashMap<String, String>();
-        map2.put("test", "test");
-
-        Map<String, String> map3 = new HashMap<String, String>() {
-            {
-                put("test", "test");
-            }
-        };
-
-        System.out.println(map1.get("test"));
-        System.out.println(map2.get("test"));
-        System.out.println(map3.get("test"));
-
-
+        System.out.println("每支球队得分种类："+ 3*c);
 
 
     }
+    private static int calculate(int n) {
+        if (n == 0){
+            return 1;
+        }
+        return 2 * calculate(n - 1);
+    }
+
+
 }
