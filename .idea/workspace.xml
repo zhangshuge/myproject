@@ -5,41 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03604e1f-9284-4953-8d92-c4b9335ab999" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/zc/algorithm/ArraySums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/effective/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/effective/src/main/java/com/zc/demo/effective/chapter1/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/DirectMemoryOom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/DynamicLinking.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/FinalizeEscapeGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/JavaVirtualMachineMemoryModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/LocalVariables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/ReferenceCountingGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/main/java/com/zc/secret/xml/DocumentBuilderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/structure.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/structureW1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/structureW2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/xml.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/test/java/com/zc/secret/xml/DocumentBuilderFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/DDOS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/ExecuteCommand.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/HostDetection.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/Payload.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/IpCaculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/Net.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55d9912791933c64adc900057ace0b5f101cfc1c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/MethodAreaOom.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/MethodAreaOom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/src/main/java/com/zc/log/jul/Nose.java" beforeDir="false" afterPath="$PROJECT_DIR$/logs/src/main/java/com/zc/log/jul/Nose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secret/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/secret/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/main/java/com/zc/test/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -241,6 +208,10 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="192" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1603328664986" />
+    <state x="351" y="32" key="CommitChangelistDialog2" timestamp="1610532002161">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="351" y="32" key="CommitChangelistDialog2/0.25.1440.815@0.25.1440.815" timestamp="1610532002161" />
     <state width="1398" height="400" key="GridCell.Tab.0.bottom" timestamp="1610530218539">
       <screen x="0" y="25" width="1440" height="815" />
     </state>
