@@ -21,6 +21,8 @@
         <module>designPatterns/commander</module>
         <module>logs</module>
         <module>jvm</module>
+        <module>algorithm</module>
+        <module>demo</module>
     </modules>
     <packaging>pom</packaging>
 

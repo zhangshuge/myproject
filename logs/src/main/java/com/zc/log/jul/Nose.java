@@ -19,7 +19,7 @@ public class Nose {
             Logger.getLogger("com.zc.nose").addHandler(fh);
             Logger.getLogger("com.zc.nose").setLevel(Level.FINEST);
             logger.setUseParentHandlers(false);
-            logger.config();
+
         } catch (IOException e) {
             e.printStackTrace();
         }

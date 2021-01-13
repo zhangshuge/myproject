@@ -7,24 +7,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="test" />
-        <module name="spring-cloud-consumer" />
-        <module name="logs" />
-        <module name="jdk" />
-        <module name="jvm" />
-        <module name="designPatterns" />
-        <module name="spring-cloud-eureka" />
         <module name="performance" />
-        <module name="spring-cloud-provider" />
         <module name="http" />
+        <module name="logs" />
         <module name="route" />
+        <module name="spring-cloud-eureka" />
+        <module name="jvm" />
+        <module name="jdk" />
         <module name="commander" />
+        <module name="effective" />
+        <module name="test" />
+        <module name="spring-cloud-provider" />
+        <module name="designPatterns" />
         <module name="secret" />
+        <module name="algorithm" />
+        <module name="spring-cloud-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
+      <module name="algorithm" target="1.5" />
       <module name="commander" target="8" />
+      <module name="demo" target="1.5" />
       <module name="designPatterns" target="1.5" />
+      <module name="effective" target="7" />
       <module name="http" target="1.5" />
       <module name="jdk" target="8" />
       <module name="jvm" target="1.5" />

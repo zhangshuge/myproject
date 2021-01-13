@@ -5,84 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03604e1f-9284-4953-8d92-c4b9335ab999" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/zc/algorithm/ArraySums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/effective/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/effective/src/main/java/com/zc/demo/effective/chapter1/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/DirectMemoryOom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/DynamicLinking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/FinalizeEscapeGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/JavaVirtualMachineMemoryModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/LocalVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/ReferenceCountingGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/main/java/com/zc/secret/xml/DocumentBuilderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/structure.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/structureW1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/structureW2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/main/resources/xmls/xml.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/test/java/com/zc/secret/xml/DocumentBuilderFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/DDOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/ExecuteCommand.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/HostDetection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/src/test/resources/Payload.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/IpCaculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/Net.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55d9912791933c64adc900057ace0b5f101cfc1c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/1590305980736.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/com/zc/designpattern/commander/Action.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/com/zc/designpattern/commander/Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/com/zc/designpattern/commander/EditorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/com/zc/designpattern/commander/Macro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/com/zc/designpattern/commander/impl/Close.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/com/zc/designpattern/commander/impl/Open.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/classes/com/zc/designpattern/commander/impl/Save.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatterns/commander/target/test-classes/com/zc/designpattern/commander/RunTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/Impl1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/Impl2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/Interface1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/Interface2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/Java8FunctionIdentityExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/balls/Ball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/balls/BasketBall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/balls/FootBall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/balls/Sports.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/stream/Artist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/zc/jdk/stream/Operate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/jdk-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/surefire-reports/TEST-com.zc.jdk.stream.OperateTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/surefire-reports/com.zc.jdk.stream.OperateTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/test-classes/com/zc/jdk/stream/InterfaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/test-classes/com/zc/jdk/stream/OperateTest$Model.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/test-classes/com/zc/jdk/stream/OperateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/test-classes/com/zc/jdk/stream/SportsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/META-INF/BenchmarkList" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/META-INF/CompilerHints" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/JmhRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/JudgeCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/JudgeCompare_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_jmhType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_jmhType_B1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_jmhType_B2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_jmhType_B3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_testIf_10_jmhTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_testIf_3_jmhTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_testIf_5_jmhTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_testSwitch_10_jmhTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_testSwitch_3_jmhTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/classes/com/zc/performance/generated/JudgeCompare_5_testSwitch_5_jmhTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_jmhType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_jmhType_B1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_jmhType_B2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_jmhType_B3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_testIf_10_jmhTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_testIf_3_jmhTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_testIf_5_jmhTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_testSwitch_10_jmhTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_testSwitch_3_jmhTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance/target/generated-sources/annotations/com/zc/performance/generated/JudgeCompare_5_testSwitch_5_jmhTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud/spring-cloud-provider/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud/spring-cloud-provider/target/classes/com/zc/spring/cloud/provider/ProviderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/ClassSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/MapConcurrenceTest$A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/MapConcurrenceTest$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/MapConcurrenceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/ParamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/PatternTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/StringUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/extend/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/extend/Three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/extend/Two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/classes/com/zc/test/extend/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/test-classes/com/zc/test/Model.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/target/test-classes/com/zc/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/MethodAreaOom.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/zc/jvm/memory/MethodAreaOom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/src/main/java/com/zc/log/jul/Nose.java" beforeDir="false" afterPath="$PROJECT_DIR$/logs/src/main/java/com/zc/log/jul/Nose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secret/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/secret/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/com/zc/test/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/com/zc/test/MapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,10 +293,18 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="450" y="173" width="540" height="526" key="StructurePopup/0.23.1440.822@0.23.1440.822" timestamp="1603162535993" />
+    <state x="100" y="125" width="1240" height="615" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1610531394456">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="100" y="125" width="1240" height="615" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.815@0.25.1440.815" timestamp="1610531394456" />
     <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1603162434408">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1603162434408" />
+    <state x="469" y="284" key="git4idea.ui.GitUnstashDialog" timestamp="1610531334663">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="469" y="284" key="git4idea.ui.GitUnstashDialog/0.25.1440.815@0.25.1440.815" timestamp="1610531334663" />
     <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1602490637262">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
