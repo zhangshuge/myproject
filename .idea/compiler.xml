@@ -13,31 +13,31 @@
         <module name="jdk" />
         <module name="jvm" />
         <module name="designPatterns" />
+        <module name="spring-cloud-eureka" />
         <module name="performance" />
         <module name="spring-cloud-provider" />
-        <module name="secret" />
         <module name="http" />
         <module name="route" />
         <module name="commander" />
-        <module name="spring-cloud-eureka" />
+        <module name="secret" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="commander" target="12" />
-      <module name="designPatterns" target="12" />
-      <module name="http" target="12" />
-      <module name="jdk" target="12" />
-      <module name="jvm" target="12" />
-      <module name="logs" target="12" />
-      <module name="myproject" target="12" />
-      <module name="performance" target="12" />
-      <module name="route" target="12" />
-      <module name="secret" target="12" />
-      <module name="spring-cloud" target="12" />
-      <module name="spring-cloud-consumer" target="12" />
-      <module name="spring-cloud-eureka" target="12" />
-      <module name="spring-cloud-provider" target="12" />
-      <module name="test" target="12" />
+      <module name="commander" target="8" />
+      <module name="designPatterns" target="1.5" />
+      <module name="http" target="1.5" />
+      <module name="jdk" target="8" />
+      <module name="jvm" target="1.5" />
+      <module name="logs" target="1.5" />
+      <module name="myproject" target="1.5" />
+      <module name="performance" target="7" />
+      <module name="route" target="8" />
+      <module name="secret" target="1.5" />
+      <module name="spring-cloud" target="1.8" />
+      <module name="spring-cloud-consumer" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
+      <module name="spring-cloud-provider" target="1.8" />
+      <module name="test" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

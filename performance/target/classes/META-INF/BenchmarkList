@@ -1,6 +1,0 @@
-JMH S 33 com.zc.performance.JudgeCompare_5 S 64 com.zc.performance.generated.JudgeCompare_5_testSwitch_5_jmhTest S 12 testSwitch_5 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 33 com.zc.performance.JudgeCompare_5 S 65 com.zc.performance.generated.JudgeCompare_5_testSwitch_10_jmhTest S 13 testSwitch_10 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 33 com.zc.performance.JudgeCompare_5 S 61 com.zc.performance.generated.JudgeCompare_5_testIf_10_jmhTest S 9 testIf_10 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 33 com.zc.performance.JudgeCompare_5 S 64 com.zc.performance.generated.JudgeCompare_5_testSwitch_3_jmhTest S 12 testSwitch_3 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 33 com.zc.performance.JudgeCompare_5 S 60 com.zc.performance.generated.JudgeCompare_5_testIf_3_jmhTest S 8 testIf_3 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 33 com.zc.performance.JudgeCompare_5 S 60 com.zc.performance.generated.JudgeCompare_5_testIf_5_jmhTest S 8 testIf_5 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
