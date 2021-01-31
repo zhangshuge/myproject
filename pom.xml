@@ -18,11 +18,11 @@
         <module>spring-cloud</module>
         <module>performance</module>
         <module>designPatterns</module>
-        <module>designPatterns/commander</module>
         <module>logs</module>
         <module>jvm</module>
         <module>algorithm</module>
         <module>demo</module>
+        <module>thread</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -45,4 +45,18 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>11</source>
+                    <target>11</target>
+                    <showWarnings>true</showWarnings>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

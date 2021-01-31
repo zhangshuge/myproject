@@ -1,11 +1,9 @@
 package com.zc.jdk.stream;
 
-import com.sun.javafx.tools.packager.MakeAllParams;
 import com.zc.jdk.balls.Ball;
 import com.zc.jdk.balls.BasketBall;
 import com.zc.jdk.balls.FootBall;
 import com.zc.jdk.balls.Sports;
-import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -16,7 +14,6 @@ import java.util.concurrent.ThreadLocalRandom;
 import java.util.function.IntFunction;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class SportsTest {
     @Test

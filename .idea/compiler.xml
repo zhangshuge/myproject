@@ -7,42 +7,43 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="performance" />
-        <module name="http" />
-        <module name="logs" />
-        <module name="route" />
-        <module name="spring-cloud-eureka" />
         <module name="jvm" />
-        <module name="jdk" />
-        <module name="commander" />
-        <module name="effective" />
         <module name="test" />
         <module name="spring-cloud-provider" />
-        <module name="designPatterns" />
         <module name="secret" />
+        <module name="thread" />
+        <module name="spring-cloud-eureka" />
+        <module name="jdk" />
+        <module name="effective" />
+        <module name="performance" />
+        <module name="route" />
+        <module name="commander" />
+        <module name="http" />
+        <module name="logs" />
         <module name="algorithm" />
         <module name="spring-cloud-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="algorithm" target="1.5" />
+      <module name="algorithm" target="11" />
       <module name="commander" target="8" />
-      <module name="demo" target="1.5" />
-      <module name="designPatterns" target="1.5" />
+      <module name="demo" target="11" />
+      <module name="designPatterns" target="11" />
       <module name="effective" target="7" />
-      <module name="http" target="1.5" />
+      <module name="http" target="11" />
       <module name="jdk" target="8" />
-      <module name="jvm" target="1.5" />
-      <module name="logs" target="1.5" />
-      <module name="myproject" target="1.5" />
+      <module name="jvm" target="11" />
+      <module name="logs" target="11" />
+      <module name="myproject" target="11" />
       <module name="performance" target="7" />
       <module name="route" target="8" />
-      <module name="secret" target="1.5" />
+      <module name="secret" target="11" />
       <module name="spring-cloud" target="1.8" />
       <module name="spring-cloud-consumer" target="1.8" />
       <module name="spring-cloud-eureka" target="1.8" />
       <module name="spring-cloud-provider" target="1.8" />
       <module name="test" target="8" />
+      <module name="thread" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

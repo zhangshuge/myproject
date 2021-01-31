@@ -141,15 +141,12 @@ b
 +logs/src/main/java/com/zc/log/jul/Nose.java,3/e/3eb77c3a9f628f3f6b3ebd542f1999e355ae6422
 ;
 jvm/pom.xml,3/c/3c60b4dea6de632a05c6a305591e91307661dbfd
-Y
-)jvm/src/main/java/com/zc/jvm/HeapOom.java,f/5/f51852e072cde2d5e1b1b97b3819d9c8f9cb0f06
-`
-0jvm/src/main/java/com/zc/jvm/JavaVMStackSOF.java,a/8/a8cf1bfb19073d4bb5716b51b5ed919f03af8d39
-o
-?jvm/src/main/java/com/zc/jvm/JavaVirtualMachineMemoryModel.java,0/c/0cb73278215099d0cee387445ed2b6068612eb21
-`
-0jvm/src/main/java/com/zc/jvm/LocalVariables.java,6/e/6e559cda097dbfad808c597c50576bffacae33d8
-`
-0jvm/src/main/java/com/zc/jvm/DynamicLinking.java,1/a/1adb3088dfe4b9ee86c527ea57d61c12b765264c
-k
-;jvm/src/main/java/com/zc/jvm/ThreadLocalAllocationBuff.java,8/8/88c2bab467dbea6a21f9d55b7e704af32aaa0a85
+a
+1jvm/src/main/java/com/zc/jvm/clazz/TestClass.java,4/1/414a09a667fb2f86c1ee4da016e4a5c0d4339564
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+i
+9test/src/main/java/com/zc/test/serializable/GsonTest.java,b/d/bddaf6bb937a41268c5308e40c7711cf24e941d7
+b
+2jvm/src/main/java/com/zc/jvm/clazz/SuperClass.java,0/b/0bc31075c42735a5e0bc0cd90dab4c8100241434
