@@ -10,11 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>jdk</artifactId>
+
+
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.12</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -32,20 +33,12 @@
             <artifactId>guava</artifactId>
             <version>29.0-jre</version>
         </dependency>
-
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>3.3.0</version>
+        </dependency>
     </dependencies>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>8</source>
-                    <target>8</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
 
 </project>

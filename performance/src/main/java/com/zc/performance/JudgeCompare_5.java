@@ -3,7 +3,7 @@ package com.zc.performance;
 import org.openjdk.jmh.annotations.Benchmark;
 
 public class JudgeCompare_5 {
-    @Benchmark
+    //@Benchmark
     public void testIf_3() {
         int a = 3;
         if (a == 1) {
@@ -14,7 +14,7 @@ public class JudgeCompare_5 {
         }
     }
 
-    @Benchmark
+  //  @Benchmark
     public void testSwitch_3() {
         int a = 3;
         switch (a) {
@@ -29,7 +29,7 @@ public class JudgeCompare_5 {
         }
     }
 
-    @Benchmark
+  //  @Benchmark
     public void testIf_5() {
         int a = 3;
         if (a == 1) {
@@ -44,7 +44,7 @@ public class JudgeCompare_5 {
         }
     }
 
-    @Benchmark
+  //  @Benchmark
     public void testSwitch_5() {
         int a = 3;
         switch (a) {
@@ -62,7 +62,7 @@ public class JudgeCompare_5 {
         }
     }
 
-    @Benchmark
+   // @Benchmark
     public void testIf_10() {
         int a = 3;
         if (a == 1) {
@@ -88,7 +88,7 @@ public class JudgeCompare_5 {
 
     }
 
-    @Benchmark
+   // @Benchmark
     public void testSwitch_10() {
         int a = 3;
         switch (a) {
