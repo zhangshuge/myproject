@@ -7,7 +7,7 @@ import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
 
 public class JmhRun {
-    public static void main(String[] args) throws RunnerException {
+    /*public static void main(String[] args) throws RunnerException {
         Options opt = new OptionsBuilder()
                 // 导入要测试的类
                 .include(JudgeCompare_5.class.getSimpleName())
@@ -20,5 +20,5 @@ public class JmhRun {
                 .build();
         new Runner(opt).run();
 
-    }
+    }*/
 }

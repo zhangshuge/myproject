@@ -37,9 +37,9 @@ public class JudgeCompare {
         }
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         JudgeCompare jc = new JudgeCompare();
         jc.checkIfTime();
         jc.checkSwitchTime();
-    }
+    }*/
 }
