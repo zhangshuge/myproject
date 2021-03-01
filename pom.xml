@@ -23,6 +23,7 @@
         <module>algorithm</module>
         <module>demo</module>
         <module>thread</module>
+        <module>netty</module>
     </modules>
     <packaging>pom</packaging>
 
