@@ -14,8 +14,11 @@ public class ThreadLocal {
         }
     };
 
+    static java.lang.ThreadLocal<String> tl = new java.lang.ThreadLocal<>();
+
     private static final void begin() {
         TIME_THREADLOCAL.set(System.currentTimeMillis());
+        tl.set("tl");
     }
 
     private static final long end() {
@@ -26,5 +29,7 @@ public class ThreadLocal {
         begin();
         TimeUnit.SECONDS.sleep(1);
         System.out.println("clost: " + ThreadLocal.end() + " mills");
+        System.out.println(tl.get());;
+        Thread thread = Thread.currentThread();
     }
 }

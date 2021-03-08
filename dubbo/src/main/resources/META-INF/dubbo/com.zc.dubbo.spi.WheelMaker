@@ -1,0 +1,2 @@
+run = com.zc.dubbo.spi.RunWheelMaker
+start = com.zc.dubbo.spi.StartWheelMaker

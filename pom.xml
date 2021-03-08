@@ -24,6 +24,7 @@
         <module>demo</module>
         <module>thread</module>
         <module>netty</module>
+        <module>dubbo</module>
     </modules>
     <packaging>pom</packaging>
 
