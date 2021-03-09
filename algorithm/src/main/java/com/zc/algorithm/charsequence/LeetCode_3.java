@@ -7,86 +7,41 @@ import java.util.Set;
 
 public class LeetCode_3 {
     public static void main(String[] args) {
-        String str = "abcabcbb";
-        // 哈希集合，记录每个字符是否出现过
-        Set<Character> occ = new HashSet<Character>();
-        int n = str.length();
-       /* // 右指针，初始值为 -1，相当于我们在字符串的左边界的左侧，还没有开始移动
-        int rk = -1, ans = 0;
-        for (int i = 0; i < n; ++i) {
-            if (i != 0) {
-                // 左指针向右移动一格，移除一个字符
-                occ.remove(s.charAt(i - 1));
-            }
-            while (rk + 1 < n && !occ.contains(s.charAt(rk + 1))) {
-                // 不断地移动右指针
-                occ.add(s.charAt(rk + 1));
-                ++rk;
-            }
-            // 第 i 到 rk 个字符是一个极长的无重复字符子串
-            ans = Math.max(ans, rk - i + 1);
-        }
-*/
-        Set<Character> sc = new HashSet<>();
-        String s = "dvdf";
-
-
-        int nn = s.length();
-        sc.add(s.charAt(0));
+        String str = "abcabcbd";
+        Map<Character, Integer> map = new HashMap<>(16);
+        //用于记录最大不重复字符串的常长度
+        int maxLen = 0;
+        //滑动窗口左指针
         int left = 0;
-        int right = 1;
-        int ls = 0;
-        for (int i = 0; i < nn; i++) {
-            if (i!=0 && sc.contains(s.charAt(i))){
-                i=right+1;
-               // sc.clear();
-                if (right<nn){
-                    sc.add(s.charAt(right));
-                }
+        for (int i = 0; i < str.length(); i++) {
+            /*
+             * 判断map是否包含当前字符，如果不包括将其存入map。
+             * key为具体字符，value为字符对应的下标。
+             * 此时map中没有重复字符指针不需要移动。
+             *
+             * 如果map中包含当前字符，有两种情况：
+             *    第一种情况：当前字符包含在当前有效的子段中。如：abca，当我们遍历到第二个a，当前有效最长子段是 abc，我们又遍历到a，
+             *              那么此时更新 left 为 map.get(a)+1=1，当前有效子段更新为 bca；
+             *    第二种情况：当前字符不包含在当前有效的子段中。如：abba，我们先将ab放进map中，由于没有重复key所以此时left=0.当我们再次添加
+             *              b时，发现map中已经存在b了，而且是在最长的有效子段中也就是第一种情况，按照正常逻辑我们会通过left=map.get(b)+1
+             *              来更新b的索引下标，也就是key=b,value=2.此时map.get(a)=0.即key=a,value=0.
+             *              map：{
+             *                  'a':0,
+             *                  'b':2
+             *              }
+             *              继续遍历，当第二个a进来时，发现map中已经有a了且value=0,如果我们还是按照第一种情况来处理，那么left=map.get(a)+1，
+             *              而实际上此时left应该保持不变，保持在下标2处，子段变成ba才对。
+             *    为了处理以上2类情况，我们每次更新left时都需要用left原来下标的大小和当前要调整的字符对应下标的大小进行比较，left取最大值。
+             *    left=Math.max(left, map.get(ch)+1).另外，更新left后，不管原来的s.charAt(i)是否在最长子段中，我们都要将s.charAt(i)
+             *    的位置更新为当前的i，因此此时新的s.charAt(i)已经进入到当前最长的子段中！
+             */
+            if (map.containsKey(str.charAt(i))) {
+                //移动指针下标
+                left = Math.max(left, map.get(str.charAt(i)) + 1);
             }
-            //右指针移动
-            if (right<i){
-                right = i;
-            }
-            while (right<nn && !sc.contains(s.charAt(right))){
-                sc.add(s.charAt(right));
-                right++;
-            }
-            ls = Math.max(ls,sc.size());
+            //不管是否更新left，都要更新 s.charAt(i) 的位置！
+            map.put(str.charAt(i), i);
+            maxLen = Math.max(maxLen , i-left+1);
         }
-        System.out.println(ls);
-
-       /* String str = "abcabcbb";
-        Set<Character> set = new HashSet<>();
-        int n = str.length();
-        int left =0; //滑动窗口的左边界指针
-        int right =1; //滑动窗口的右边届指针
-
-        set.add(str.charAt(0));//第一个元素要先放入散列表中
-        for (int i=0;i<n;i++){
-            while (right<n && !set.contains(str.charAt(right))){
-                set.add(str.charAt(right));
-                right++;
-            }
-        }
-        System.out.println(set.toString());
-*/
-
-
-       /* Map<String,Integer> map = new HashMap<>(16);
-        int i=0;
-        int j =1;
-        while (j<str.length()){
-           if (str.charAt(i)!=str.charAt(j)){
-               String key = String.valueOf(str.charAt(i) )+String.valueOf(str.charAt(j));
-               Integer value = map.getOrDefault(key,0);
-               map.put(key,value);
-               j++;
-           }
-        }*/
-        /*for (int j=1;j<str.length();j++){
-
-            System.out.println(str.charAt(i));
-        }*/
     }
 }
