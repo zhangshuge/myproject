@@ -7,7 +7,11 @@ import java.util.Set;
 
 public class LeetCode_3 {
     public static void main(String[] args) {
-        String str = "abcabcbd";
+        LeetCode_3.solution("abcabcbd");
+        LeetCode_3.solution("abba");
+    }
+
+    public static void solution(String str) {
         Map<Character, Integer> map = new HashMap<>(16);
         //用于记录最大不重复字符串的常长度
         int maxLen = 0;
@@ -41,7 +45,12 @@ public class LeetCode_3 {
             }
             //不管是否更新left，都要更新 s.charAt(i) 的位置！
             map.put(str.charAt(i), i);
-            maxLen = Math.max(maxLen , i-left+1);
+            maxLen = Math.max(maxLen, i - left + 1);
         }
+        System.out.println(str + "最大不重复子串长度为：" + maxLen);
+    }
+
+    public static void solution2(){
+
     }
 }
