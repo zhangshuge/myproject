@@ -1,0 +1,2 @@
+impl1 = com.zc.dubbo.spi.adaptive.Impl1
+impl2 = com.zc.dubbo.spi.adaptive.Impl2
