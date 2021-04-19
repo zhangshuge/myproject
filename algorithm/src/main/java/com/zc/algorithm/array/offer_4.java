@@ -3,7 +3,7 @@ package com.zc.algorithm.array;
 import java.nio.file.attribute.FileOwnerAttributeView;
 import java.util.HashMap;
 
-public class LeetCode_4 {
+public class offer_4 {
     public static void main(String[] args) {
         int[][] matrix = new int[][]{};
         System.out.println(matrix.length);

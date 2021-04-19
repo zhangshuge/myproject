@@ -2,7 +2,7 @@ package com.zc.algorithm.array;
 
 import java.util.*;
 
-public class LeetCode_3 {
+public class Offer_3 {
     public static void main(String[] args) {
         /*
          * 通过将数组转换成哈希表，即能实现重复数组的查找，也能统计元素重复次数。

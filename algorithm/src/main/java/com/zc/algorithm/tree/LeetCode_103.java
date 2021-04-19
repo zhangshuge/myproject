@@ -1,13 +1,11 @@
 package com.zc.algorithm.tree;
 
-import com.sun.source.tree.IfTree;
-
 import java.util.Stack;
 
 /**
  * @author zhangchi
  */
-public class PrintBinaryTree {
+public class LeetCode_103 {
     /**
      * 初始化二叉树结构
      */
@@ -70,7 +68,7 @@ public class PrintBinaryTree {
     }
 
     public void printTree(TreeNode treeNode) {
-        Stack<TreeNode> oddStack = new Stack<>();//奇数粘
+        Stack<TreeNode> oddStack = new Stack<>();//奇数栈
         Stack<TreeNode> evenStack = new Stack<>();//偶数栈
         int line = 1;//标识第一行
 
@@ -105,9 +103,9 @@ public class PrintBinaryTree {
     }
 
     public static void main(String[] args) {
-        PrintBinaryTree printBinaryTree = new PrintBinaryTree();
+        LeetCode_103 leetCode103 = new LeetCode_103();
         //初始化二叉树
-        TreeNode treeNode = printBinaryTree.init();
-        printBinaryTree.printTree(treeNode);
+        TreeNode treeNode = leetCode103.init();
+        leetCode103.printTree(treeNode);
     }
 }

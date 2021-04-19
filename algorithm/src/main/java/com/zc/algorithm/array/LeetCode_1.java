@@ -20,6 +20,18 @@ public class LeetCode_1 {
         return new int[]{};
     }
 
+    public void getTarget2(int[] nums,int target){
+        Map map = new HashMap();
+        for (int i=0 ;i<nums.length;i++){
+            int cn = target - nums[i];
+            if (map.containsKey(cn)){
+                String s = map.get(cn) + "," + i;//两个下标即为所求
+            }else{
+                map.put(nums[i],i);
+            }
+        }
+    }
+
     public static void main(String[] args) {
         int[] nums = new int[]{2, 7, 11, 15};
         int target = 9;

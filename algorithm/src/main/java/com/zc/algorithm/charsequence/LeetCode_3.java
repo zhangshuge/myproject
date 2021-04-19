@@ -1,9 +1,7 @@
 package com.zc.algorithm.charsequence;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class LeetCode_3 {
     public static void main(String[] args) {

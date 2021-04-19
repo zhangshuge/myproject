@@ -2,7 +2,7 @@ package com.zc.algorithm.linked;
 
 import java.util.Stack;
 
-public class LeetCode_6 {
+public class Offer_6 {
     public static void main(String[] args) {
         ListNode ln1 = new ListNode(1);
         ListNode ln2 = new ListNode(3);
